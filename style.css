@@ -1,0 +1,22 @@
+
+.first_day > a {
+    text-decoration: none;
+}
+.first_day {
+    color: green;
+} 
+.second_day {
+    color: green;
+} 
+.third_day {
+    color: green;
+} 
+.fourth_day {
+    color: green;
+} 
+.fifth_day {
+    color: green;
+}  
+.sixth_day {
+    color: red;
+} 
